@@ -1,0 +1,2 @@
+all samples compile using : tsc xx.ts
+run(use nodejs) : node xx.js
